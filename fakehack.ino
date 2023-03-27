@@ -3,7 +3,7 @@
 void setup() {
     DigiKeyboard.sendKeyStroke(0);
     Digikeyboard.delay(100);
-    DigiKeyboard.sendKeyStroke(MOD_GUI_LEFT, KEY_R);
+    DigiKeyboard.sendKeyStroke(KEY_R, MOD_GUI_LEFT);
     DigiKeyboard.delay(100);
     DigiKeyboard.print("cmd");
     DigiKeyboard.delay(100);
