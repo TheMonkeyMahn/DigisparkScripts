@@ -1,11 +1,22 @@
 # Digispark Tab Spammer
 
 
-To use: Get a Digispark USB stick
+To use: 
 
-do the other stuff 
+For actually helpful instructions, go to this website: https://www.instructables.com/How-to-Setup-DigiSprak-Attiny85-Board/
 
+Get a Digispark USB stick
 
-bing bam boom it works
-plug it into someone's pc 
-it spams the burger king site
+Install the Arduino IDE
+
+Set up the Digispark board in Arduino
+
+Install Digistump Boards in Arduino
+
+Install Digistump Drivers
+
+Enter code into Arduino 
+
+Press upload in Arduino
+
+Connect the Digispark Board
