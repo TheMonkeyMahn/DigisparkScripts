@@ -7,6 +7,8 @@ void setup() {
     DigiKeyboard.delay(100);
     DigiKeyboard.print("cmd");
     DigiKeyboard.delay(100);
+    DigiKeyboard.sendKeyStroke(KEY_ENTER);
+    DigiKeyboard.delay(100);
     DigiKeyboard.print("tree");
     DigiKeyboard.delay(100);
     DigiKeyboard.sendKeyStroke(KEY_ENTER);
