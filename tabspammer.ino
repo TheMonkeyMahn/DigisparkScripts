@@ -1,12 +1,12 @@
 #include "DigiKeyboard.h"
 
 void setup() {
-  // don't need to set anything up to use DigiKeyboard
+  //We don't need to run anything first so this will be blank
 }
 
 void loop() {
   DigiKeyboard.sendKeyStroke(0);
-  DigiKeyboard.sendKeyStroke(MOD_CONTROL_LEFT, KEY_T);
+  DigiKeyboard.sendKeyStroke(KEY_T, MOD_CONTROL_LEFT);
   DigiKeyboard.delay(100);
   DigiKeyboard.print("https://bk.com");
   DigiKeyboard.delay(100);
@@ -15,4 +15,4 @@ void loop() {
 }
 
 
-//    this wont work probably uwu owo uwu owo uwu owo uwu owo
+//Spams tabs with the Burger King website
