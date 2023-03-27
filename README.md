@@ -1,4 +1,4 @@
-# Digispark Tab Spammer
+# Digispark Scripts
 
 
 To use: 
